@@ -1,0 +1,17 @@
+{
+  "name": "mycode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.2",
+    "cypress": "^13.13.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
